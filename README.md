@@ -1,16 +1,20 @@
-## Hi there 👋
+## About Me!
 
-<!--
-**aiamerson/aiamerson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a senior Computer Science major at Norfolk State University that will be graduating in December 2026.
 
-Here are some ideas to get you started:
+Current Contributor Catalyst member of Cohort 2026.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+- 🌱 I’m currently learning the basics of Open Source through the Contributor Catalyst Program at UCSC
+- 🤔 I’m looking for help with any tips ant tricks that will help me get adjusted to Open Source and the Computer Science workforce as a whole
+- 📫 How to reach me: [Email](amersonamario@gmail.com)
+- 😄 Pronouns: He/Him
+
+---
+
+### Languages
+
+- C++
+- Java
+- Python
