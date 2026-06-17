@@ -18,3 +18,9 @@ Current Contributor Catalyst member of Cohort 2026.
 - C++
 - Java
 - Python
+
+---
+
+### Projects
+Weapon detection system: A website where photos and videos can be uploaded to detect different weapons including sharp objects and firearms.
+Aux party: An app where users can join a host to request and vote on songs to play next in a playlist.
