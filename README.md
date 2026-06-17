@@ -1,6 +1,6 @@
 ## About Me!
 
-I am a senior Computer Science major at Norfolk State University that will be graduating in December 2026.
+I am a senior Computer Science major at Norfolk State University that will be graduating in December 2026. Passionate about using technology to solve real-world problems and eager to apply programming, research, and teamwork skills to an entry-level role in software development, cybersecurity, or AI research.
 
 Current Contributor Catalyst member of Cohort 2026.
 
